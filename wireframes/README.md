@@ -1,3 +1,5 @@
+# Wireframes *Abogabot*
+
 - [Wireframes *Abogabot*](#wireframes-abogabot)
   - [Vistas generales](#vistas-generales)
     - [Página de Inicio](#página-de-inicio)
@@ -9,7 +11,6 @@
   - [Vistas administrador](#vistas-administrador)
     - [Dashboard administrador](#dashboard-administrador)
 
-# Wireframes *Abogabot*
 ___
 ## Vistas generales
 ### Página de Inicio
